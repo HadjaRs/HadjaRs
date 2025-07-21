@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá! Eu sou a Hadja
 
-<!--
-**HadjaRs/HadjaRs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação
+💡 Apaixonada por tecnologia, eletrônica e integração hardware/software  
+📚 Atualmente estudando Python, HTML, CSS e C
+🔧 Em busca de aprender cada vez mais com projetos práticos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente aprendendo:
+
+- Desenvolvimento front-end
+- Estruturação de projetos no GitHub
+
+  
+### 📫 Me encontre por aqui:
+- ✉️ hadja@email.com
+- 💼 [LinkedIn](www.linkedin.com/in/sarah-hadja-121741303)
