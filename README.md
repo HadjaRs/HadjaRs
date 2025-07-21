@@ -14,4 +14,4 @@
   
 ### 📫 Me encontre por aqui:
 - ✉️ s.hadjareis@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/sarah-hadja-121741303)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sarah-hadja-121741303/)
