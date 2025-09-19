@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia da Computação
 💡 Apaixonada por tecnologia, eletrônica e integração hardware/software  
-📚 Atualmente estudando Python, HTML, CSS e C
+📚 Atualmente estudando HTML, CSS e JS
 🔧 Em busca de aprender cada vez mais com projetos práticos
 
 
